@@ -1,0 +1,49 @@
+Loesungsbogen zur AlgoDat - Prüfung 2 im SS21
+----------------------------------
+Geben Sie nur die Ziffern der richtigen Antworten an. Trennen Sie mehrere Eintraege durch ein Komma ",".
+
+========== <Beispiel> ==========
+Angenommen, die Antworten 1,2,3 sind korrekt, 4,5,6 sind falsch, so notieren Sie in der Antwort-Datei 1,2,3 (Antworten 4,5,6 werden NICHT notiert und sind damit automatisch als falsch gekennzeichnet)
+
+Antwort: 1,2,3
+========== </Beispiel> ==========
+
+========== <1> ==========
+a: 1,4
+b: 2,4,6
+c: 4
+========== </1> ==========
+
+========== <2> ==========
+a: 2
+b: 2,4
+c: 5,7
+d: 3
+========== </2> ==========
+
+========== <3> ==========
+ai:   2
+aii:  3
+aiii: 4
+b:    3
+========== </3> ==========
+
+========== <4> ==========
+a:  2,3,4,6
+b:  2,3,4,6
+c:  3,4,6
+d:  1,3,4,6
+========== </4> ==========
+
+========== <5> ==========
+a:  3,4
+b:  1,2
+c:  4
+========== </5> ==========
+
+========== <6> ==========
+a:   1,3
+b:   2,3
+c:   2,5,6
+d:    2
+========== </6> ==========
